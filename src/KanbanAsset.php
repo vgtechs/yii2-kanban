@@ -27,7 +27,7 @@ class KanbanAsset extends AssetBundle
      * {@inheritDoc}
      */
     public $depends = [
-        'yii\web\YiiAsset',
+     
         'yii\jui\JuiAsset',
        
         'simialbi\yii2\kanban\KanbanSwiperAsset'
