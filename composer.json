@@ -29,7 +29,7 @@
         "arogachev/yii2-sortable": "^0.1.6",
         "bower-asset/fullcalendar": "4.2.*",
         "bower-asset/swiper": "^6.3.5",
-        "fortawesome/font-awesome": "^2.9.0",
+        
         "kartik-v/yii2-widget-fileinput": "^1.0.9",
         "npm-asset/highlight.js": "^9.18.1",
         "simialbi/yii2-fontawesome": "^3.4.8",
