@@ -29,7 +29,7 @@ class KanbanAsset extends AssetBundle
     public $depends = [
      
         'yii\jui\JuiAsset',
-       
+       'yii\web\YiiAsset',
         'simialbi\yii2\kanban\KanbanSwiperAsset'
     ];
 }
