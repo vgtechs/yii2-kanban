@@ -21,7 +21,7 @@
 		"source": "https://github.com/simialbi/yii2-kanban",
 		"issues": "https://github.com/simialbi/yii2-kanban/issues"
 	},
-	"minimum-stability": "dev",
+	"minimum-stability": "beta",
 	"require": {
 		"php": ">=5.6",
 		"yiisoft/yii2": "^2.0.20",
